@@ -11,7 +11,7 @@
     "axios": "^0.18.0",
     "echarts": "^4.1.0",
     "element-ui": "^2.4.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "nprogress": "^0.2.0",
     "vue": "^2.5.22",
     "vue-quill-editor": "^3.0.6",
